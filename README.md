@@ -1,5 +1,6 @@
-## Hi there 👋
-My motto is always be a student 📖 
+## Pawandeep Singh Bio
+
+My motto is always be a student 📖 I live and work in Toronto 🇨🇦
 
 I love learning about technology 🤓 and staying physically fit 💪
 
