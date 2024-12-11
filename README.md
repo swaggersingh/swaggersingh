@@ -1,4 +1,6 @@
 ## Hi there 👋
+My motto is always be a student 📖
+I love learning about technology 🤓 and staying physically fit 💪
 
 <!--
 **swaggersingh/swaggersingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
