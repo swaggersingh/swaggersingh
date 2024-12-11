@@ -36,5 +36,5 @@
 ---
 
 ### 📫 How to Reach Me:
-- 💼 [LinkedIn]https://www.linkedin.com/in/pawandeep-singh-438b738b/  
+- 💼 [LinkedIn] https://www.linkedin.com/in/pawandeep-singh-438b738b/  
 - 📧 **Email**: swaggersingh.to@gmail.com 
