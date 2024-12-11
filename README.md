@@ -6,11 +6,8 @@
 ---
 
 ### 🧰 Skills & Tools:
-- **Cloud Providers**: AWS certified, Azure, GCP 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-blue)
-
-- **CI/CD Pipelines**: GitHub Actions, GitLab CI/CD, Jenkins  
+- **Cloud Providers**: ![AWS](https://img.shields.io/badge/AWS-Cloud-orange), Azure, GCP 
+- **CI/CD Pipelines**: GitHub Actions, GitLab CI/CD, ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-blue)
 - **Infrastructure as Code**: Terraform, CloudFormation, Ansible  
 - **Containers & Orchestration**: Docker, Kubernetes  
 - **Monitoring & Logging**: Prometheus, Grafana, ELK Stack  
