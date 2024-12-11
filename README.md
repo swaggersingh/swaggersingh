@@ -1,5 +1,6 @@
 ## Hi there 👋
-My motto is always be a student 📖 \n
+My motto is always be a student 📖 
+
 I love learning about technology 🤓 and staying physically fit 💪
 
 <!--
