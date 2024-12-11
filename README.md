@@ -1,8 +1,7 @@
-## Pawandeep Singh Bio
+##
 
-My motto is always be a student 📖 I live and work in Toronto 🇨🇦
-
-I love learning about technology 🤓 and staying physically fit 💪
+<h1 align="center">Hi 👋, I'm Pawandeep Singh</h1>
+<h3 align="center">A Passionate DevOps Engineer | Cloud Enthusiast | Automation Expert</h3>
 
 <!--
 **swaggersingh/swaggersingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
