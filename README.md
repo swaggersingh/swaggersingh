@@ -6,7 +6,7 @@
 ---
 
 ### 🧰 Skills & Tools:
-- **Cloud Providers**: AWS, Azure  
+- **Cloud Providers**: AWS certified, Azure, GCP
 - **CI/CD Pipelines**: GitHub Actions, GitLab CI/CD, Jenkins  
 - **Infrastructure as Code**: Terraform, CloudFormation, Ansible  
 - **Containers & Orchestration**: Docker, Kubernetes  
